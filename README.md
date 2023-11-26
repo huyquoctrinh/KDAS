@@ -1,6 +1,8 @@
 # KDAS3
 This is an official implementation of KDAS3, Knowledge distillation via Attention Supervision, and Symmetrical structure guiding for Polyp Segmentation.
 
+Author: Quoc-Huy Trinh , Trong-Hieu Nguyen Mau , Phuoc-Thao Vo Thi , Minh-Triet Tran , Hai-Dang Nguyen
+
 <div align="center">
     <a href="./">
         <img src="Figure/icassp.png" width="79%"/>
