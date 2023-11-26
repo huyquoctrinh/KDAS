@@ -1,5 +1,5 @@
 # KDAS3
-This is an official implementation of KDAS3 for Knowledge Distillation Polyp Segmentation
+This is an official implementation of KDAS3, Knowledge distillation via Attention Supervision, and Symmetrical structure guiding for Polyp Segmentation
 
 <div align="center">
     <a href="./">
