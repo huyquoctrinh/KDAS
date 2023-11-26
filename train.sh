@@ -1,0 +1,1 @@
+python -W ignore train_kd_paper.py --epoch 100 --lr 0.0001 --optimizer AdamW
