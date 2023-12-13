@@ -40,7 +40,7 @@ bash train.sh
 
 After running the training script, the training process will start. We also tried experiments on RTX5000, and it works well, so notice the batch size to reduce the OOM problem.
 
-The teacher weight can be found at [Polyp-PVT](https://github.com/DengPingFan/Polyp-PVT), we train our student model on the PVTV2-B0 backbone with the architecture from Polyp-PVT teacher, please put teacher weight in ```./teacher_weights/``` folder.
+The teacher weight can be found at [Polyp-PVT](https://github.com/DengPingFan/Polyp-PVT) or in my [Drive])(https://drive.google.com/drive/folders/1AMIXmyCcZTA0IfPTGOrdNjYvmIIfH-Ql?usp=sharing), we train our student model on the PVTV2-B0 backbone with the architecture from Polyp-PVT teacher, please put teacher weight in ```./teacher_weights/``` folder.
 
 ## Testing
 
@@ -60,6 +60,7 @@ python run/Eval.py --config configs/eval.yaml --verbose
 
 After you run the testing file, the ground truth path and the mask segmented can be defined in the configuration file. This benchmark follow the benchmark setup from [PraNet](https://github.com/DengPingFan/PraNet), which is used in the Polyp Segmentation task.
 
+The testing weights can be found in [Drive](https://drive.google.com/drive/folders/1AMIXmyCcZTA0IfPTGOrdNjYvmIIfH-Ql?usp=sharing)
 ## Result
 
 The following is the mask results from the distilled model of our training and testing:
