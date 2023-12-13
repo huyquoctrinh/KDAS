@@ -1,8 +1,7 @@
 # KDAS3
 This is an official implementation of KDAS3, Knowledge distillation via Attention Supervision, and Symmetrical structure guiding for Polyp Segmentation.
 
-Author: Quoc-Huy Trinh , Trong-Hieu Nguyen Mau , Phuoc-Thao Vo Thi , Minh-Triet Tran , Hai-Dang Nguyen
-
+Author: Quoc-Huy Trinh
 <div align="center">
     <a href="./">
         <img src="Figure/icassp.png" width="79%"/>
@@ -60,7 +59,7 @@ python run/Eval.py --config configs/eval.yaml --verbose
 
 After you run the testing file, the ground truth path and the mask segmented can be defined in the configuration file. This benchmark follow the benchmark setup from [PraNet](https://github.com/DengPingFan/PraNet), which is used in the Polyp Segmentation task.
 
-The Polyp-PVT-B0 distilled weights can be found in [Drive](https://drive.google.com/drive/folders/1AMIXmyCcZTA0IfPTGOrdNjYvmIIfH-Ql?usp=sharing)
+The Polyp-PVT-B0 distilled weights (about 5M parameters) can be found in [Drive](https://drive.google.com/drive/folders/1AMIXmyCcZTA0IfPTGOrdNjYvmIIfH-Ql?usp=sharing)
 ## Result
 
 The following is the mask results from the distilled model of our training and testing:
