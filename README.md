@@ -60,7 +60,7 @@ python run/Eval.py --config configs/eval.yaml --verbose
 
 After you run the testing file, the ground truth path and the mask segmented can be defined in the configuration file. This benchmark follow the benchmark setup from [PraNet](https://github.com/DengPingFan/PraNet), which is used in the Polyp Segmentation task.
 
-The testing weights can be found in [Drive](https://drive.google.com/drive/folders/1AMIXmyCcZTA0IfPTGOrdNjYvmIIfH-Ql?usp=sharing)
+The Polyp-PVT-B0 distilled weights can be found in [Drive](https://drive.google.com/drive/folders/1AMIXmyCcZTA0IfPTGOrdNjYvmIIfH-Ql?usp=sharing)
 ## Result
 
 The following is the mask results from the distilled model of our training and testing:
