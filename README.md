@@ -84,7 +84,7 @@ Thank you so much for following setup to help me finish this research.
 
 ## Citation
 
-'''
+```
 @misc{trinh2023kdas3,
       title={KDAS3: Knowledge distillation via Attention Supervision, and Symmetrical structure guiding for Polyp Segmentation}, 
       author={Quoc-Huy Trinh},
@@ -93,4 +93,4 @@ Thank you so much for following setup to help me finish this research.
       archivePrefix={arXiv},
       primaryClass={eess.IV}
 }
-'''
+```
