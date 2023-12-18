@@ -83,4 +83,14 @@ Thank you so much for following setup to help me finish this research.
 3. [UACANet](https://github.com/plemeri/UACANet)
 
 ## Citation
-Coming soon
+
+'''
+@misc{trinh2023kdas3,
+      title={KDAS3: Knowledge distillation via Attention Supervision, and Symmetrical structure guiding for Polyp Segmentation}, 
+      author={Quoc-Huy Trinh},
+      year={2023},
+      eprint={2312.08555},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
+'''
