@@ -1,8 +1,6 @@
 # KDAS
 This is an official implementation of KDAS: Knowledge distillation Framework via Attention Supervision for Polyp Segmentation.
 
-This paper has been accepted at ICME 2024.
-
 Author: Quoc-Huy Trinh, Phuoc-Thao Vo Thi, and Minh-Van Nguyen
 
 Paper link: [Arxiv](https://arxiv.org/abs/2312.08555)
@@ -13,6 +11,9 @@ Paper link: [Arxiv](https://arxiv.org/abs/2312.08555)
     </a>
 </div>
 
+## News :exclamation:
+
+We are happy to share that this paper has been accepted at ICME 2024.
 
 ## Installation
 
