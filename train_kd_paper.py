@@ -229,7 +229,7 @@ if __name__ == '__main__':
     model = PolypPVTtiny().cuda()
     
     teacher_model = PolypPVT().cuda()
-    teacher_model.load_state_dict(torch.load("/home/nhdang/Polyp-PVT-main/teacher_weights/PolypPVT.pth"))
+    teacher_model.load_state_dict(torch.load("./teacher_weights/PolypPVT.pth"))
 
     best = 0
 
