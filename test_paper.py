@@ -10,7 +10,7 @@ import cv2
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--testsize', type=int, default=352, help='testing size')
-    parser.add_argument('--pth_path', type=str, default='/home/nhdang/Polyp-PVT-main/teacher_weights/PolypPVT.pth')
+    parser.add_argument('--pth_path', type=str, default='/home/nhdang/PolypKD/model_pth/PolypPVTKD/PolypPVT_KDatt/PolypPVT.pth')
     opt = parser.parse_args()
     # model = PolypPVTtiny()
     model = PolypPVT()
