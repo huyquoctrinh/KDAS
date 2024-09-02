@@ -1,5 +1,5 @@
-# KDAS
-This is an official implementation of KDAS: Knowledge distillation Framework via Attention Supervision for Polyp Segmentation.
+# KDAS: Knowledge distillation Framework via Attention Supervision for Polyp Segmentation
+This is an official implementation of KDAS: Knowledge distillation Framework via Attention Supervision for Polyp Segmentation - ICME 2024.
 
 Author: Quoc-Huy Trinh, Phuoc-Thao Vo Thi, and Minh-Van Nguyen
 
