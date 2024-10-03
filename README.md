@@ -11,10 +11,6 @@ Paper link: [Arxiv](https://arxiv.org/abs/2312.08555)
     </a>
 </div>
 
-## News :exclamation:
-
-We are happy to share that this paper has been accepted at ICME 2024.
-
 ## Installation
 
 To install all of the packages for training, please install via the ```requirements.txt``` file. Please follow this command to install:
@@ -88,12 +84,15 @@ Thank you so much for following setup to help me finish this research.
 ## Citation
 
 ```
-@misc{trinh2023kdas3,
-      title={KDAS3: Knowledge distillation via Attention Supervision, and Symmetrical structure guiding for Polyp Segmentation}, 
-      author={Quoc-Huy Trinh},
-      year={2023},
-      eprint={2312.08555},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
-}
+@INPROCEEDINGS{10687662,
+  author={Trinh, Quoc-Huy and Nguyen, Minh-Van and Thi, Phuoc-Thao Vo},
+  booktitle={2024 IEEE International Conference on Multimedia and Expo (ICME)}, 
+  title={KDAS: Knowledge Distillation via Attention Supervision Framework for Polyp Segmentation}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Image segmentation;Accuracy;Computational modeling;Industry applications;Real-time systems;Computational efficiency;Biomedical imaging;Polyp Segmentation;Knowledge Distillation;Symmetrical Guiding;Attention Supervision;Deep Learning},
+  doi={10.1109/ICME57554.2024.10687662}}
+
 ```
